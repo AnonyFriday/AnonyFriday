@@ -15,6 +15,11 @@
 
 ## A little more about me ...<img src="https://media3.giphy.com/media/t8e3d3gtfocAu8m5uP/giphy.gif" width="50" alt="coding icon">
 
+<img align="right" width="350" height="200" src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-social-media.svg" />
+
+[![Linkedin: duyvukim75](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duykimvu75/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duy.vu.75248795/)
+
 :school: <i>B.Sw.E. at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a></i>
 
 :briefcase: <i>Former Warehouse Maintenance at <a href="https://eviayoghurt.com.au/">The Yogurt Co.</a></i>
@@ -42,10 +47,7 @@ public class NewClass {
     }
 }
 ```
-## Contact me on<img align="left" width="250" height="150" src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-social-media.svg" />
 
-[![Linkedin: duyvukim75](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duykimvu75/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duy.vu.75248795/)
 
 
 
