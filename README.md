@@ -1,10 +1,17 @@
-<img src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-header-image.png" alt="banner that indicate Kim is the Software Engineering">
+<div style="max-width: 100%;">
+    <img style="width: 100%;" src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-header-image.png" alt="banner that indicate Kim is the Software Engineering">
+</div>
+
 
 
 ## Primary Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman,figma,git,neovim)](https://skillicons.dev)
+
+<div style="max-width: 100%;">
+    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonyFriday&theme=github" />
+</div>
 
 ## A little more about me ...<img src="https://media3.giphy.com/media/t8e3d3gtfocAu8m5uP/giphy.gif" width="50" alt="coding icon">
 
