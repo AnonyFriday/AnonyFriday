@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postman,figma,git,neovim)](https://skillicons.dev)
 
 <div style="max-width: 100%;">
-    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonyFriday&theme=buefy&hide_border=true" />
+    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonyFriday&theme=shadow-purple&hide_border=true" />
 </div>
 
 ## A little more about me ...<img src="https://media3.giphy.com/media/t8e3d3gtfocAu8m5uP/giphy.gif" width="50" alt="coding icon">
