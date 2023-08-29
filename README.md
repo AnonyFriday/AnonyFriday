@@ -10,8 +10,9 @@
 [![My Skills](https://skillicons.dev/icons?i=postman,figma,git,neovim)](https://skillicons.dev)
 
 <div style="max-width: 100%;">
-    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonyFriday&theme=github" />
+    <img style="width: 100%;" src="(https://github-readme-stats.vercel.app/api?username=AnonyFriday&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
+
 
 ## A little more about me ...<img src="https://media3.giphy.com/media/t8e3d3gtfocAu8m5uP/giphy.gif" width="50" alt="coding icon">
 
