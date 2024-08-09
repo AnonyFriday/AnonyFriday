@@ -5,9 +5,9 @@
 
 
 ## Primary Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman,figma,git,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,bootstrap,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,dotnet,mysql,androidstudio,arduino,firebase,swift,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,figma,git,neovim,kali,linux,docker)](https://skillicons.dev)
 
 <div style="max-width: 100%;">
     <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonyFriday&theme=shadow-purple&hide_border=true" />
