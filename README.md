@@ -36,23 +36,22 @@
 
 :man_technologist: <i>Doing my job as a Software Engineering with the extreme motivatation and ambitious goals to create a software for a better world. I am also a team player and I am always willing to help others who struggling on coding.</i>
 
-```java
-public class MoreAboutMe {
-    public static void main(String[] args) {
-        Map<String, String> profile = new HashMap<String, String>() {
-            {
-                put("__Name",            "Vu Kim Duy");
+```csharp
+using System;
+using System.Collections.Generic;
 
-                put("__Pronouns",        "He | Him");
-
-                put("__Spoken Language", "Vietnamese (Primary) | English (Proficient) | Japanese (Basic)");
-     
-                put("__Architecture",    "Design System Pattern");
-
-                put("__Challenge",       "I'm on steak with Java technologies");
-                
-                put("__Hobbies",         "Martial Art | Archery | Trekking");
-            }
+public class MoreAboutMe
+{
+    public static void Main(string[] args)
+    {
+        Dictionary<string, string> profile = new Dictionary<string, string>
+        {
+            { "__Name",            "Vu Kim Duy" },
+            { "__Pronouns",        "He | Him" },
+            { "__Spoken Language", "Vietnamese (Primary) | English (Proficient) | Japanese (Basic)" },
+            { "__Architecture",    "Design System Pattern" },
+            { "__Challenge", "     "Focusing on various .NET technologies, including .NET Core, ASP.NET, C#, and Unity." },
+            { "__Hobbies",         "Martial Art | Archery | Trekking" }
         };
     }
 }
