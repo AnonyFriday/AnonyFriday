@@ -32,9 +32,7 @@
 
 :school: <i>B.Sw.E. at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a></i>
 
-:briefcase: <i>Former Warehouse Maintenance at <a href="https://eviayoghurt.com.au/">The Yogurt Co.</a></i>
-
-:man_technologist: <i>Doing my job as a Software Engineering with the extreme motivatation and ambitious goals to create a software for a better world. I am also a team player and I am always willing to help others who struggling on coding.</i>
+:man_technologist: <i>Doing my job as a Software Engineering with the extreme motivatation on .NET Technologies and low level programming to create a software for a better world. I am also a team player and I am always willing to help others who struggling on coding.</i>
 
 ```csharp
 using System;
