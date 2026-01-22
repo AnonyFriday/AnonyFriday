@@ -2,8 +2,6 @@
     <img style="width: 100%;" src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-header-image.png" alt="banner that indicate Kim is the Software Engineering">
 </div>
 
-
-
 ## Primary Skills
 <p align="left">
     <img src="https://skillicons.dev/icons?i=postman,figma,git,neovim,kali,linux,docker)](https://skillicons.dev"/>
@@ -17,18 +15,13 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,scss,ts,react,bootstrap,angular"/>
 </p>
 
-
-
 <div style="max-width: 100%;">
     <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonyFriday&theme=shadow-purple&hide_border=true" />
 </div>
 
 ## A little more about me ...<img src="https://media3.giphy.com/media/t8e3d3gtfocAu8m5uP/giphy.gif" width="50" alt="coding icon">
 
-<img align="right" width="350" height="200" src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-social-media-2.svg" />
-
-[![Linkedin: duyvukim75](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duykimvu75/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duy.vu.75248795/)
+<img align="right" width="200" height="120" src="https://github.com/AnonyFriday/AnonyFriday/blob/main/github-social-media-2.svg" />
 
 :school: <i>B.Sw.E. at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a></i>
 
