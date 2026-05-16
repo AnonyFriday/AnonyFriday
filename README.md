@@ -12,7 +12,7 @@
 </p>
 
 <p align="right">
-    <img src="https://skillicons.dev/icons?i=js,html,css,scss,ts,react,bootstrap,angular"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,scss,ts,react,tailwind,angular"/>
 </p>
 
 <div style="max-width: 100%;">
